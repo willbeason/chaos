@@ -1,0 +1,9 @@
+In region of stability: (1.0758195392458312, 1.5158243671256986)
+
+    let spring = models::Spring{
+        a: 1.0,
+        b: 5.0,
+        d: 0.02,
+        y: 12.0,
+        w: 0.5,
+    };
